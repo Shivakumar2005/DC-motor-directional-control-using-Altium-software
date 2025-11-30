@@ -1,4 +1,4 @@
-<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/d8fc9f9f-2789-4479-9799-e80492a5eef1" /># DC-motor-directional-control-using-Altium-software
+
 # Exp-9--Design-a- DC motor direction control-circuit-using-Altium-software-and-generate-the-Gerber-file.
 # AIM:
 To design the schematic and PCB layout diagram of an DC motor direction control circuit using Altium software.
